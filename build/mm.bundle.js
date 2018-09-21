@@ -71954,11 +71954,11 @@ angular.module('mm.addons.mod_workshop')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.humanasset.lmsall",
-    "appname": "HA elearning",
-    "desktopappname": "HA elearning Desktop",
-    "versioncode" : "201804",
-    "versionname" : "0.0.0",
+    "app_id" : "cy.com.zorbas.academy1",
+    "appname": "Zorbas Academy",
+    "desktopappname": "Zorbas Academy Desktop",
+    "versioncode" : "201810",
+    "versionname" : "1.0.0",
     "cache_expiration_time" : 300000,
     "default_lang" : "el",
     "languages": {"el": "Ελληνικά", "en": "English"},

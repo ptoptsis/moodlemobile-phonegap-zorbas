@@ -2,13 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.humanasset.lmsall"
-        versionCode = "201804"
-        version   = "2.0.0">
-    <name>HA elearning</name>
+        id        = "cy.com.zorbas.academy1"
+        versionCode = "201810"
+        version   = "1.0.0">
+    <name>Zorbas Academy</name>
 
     <description>
-        HA elearning official app
+        Zorbas Academy official app
     </description>
 
     <author href="http://www.humanasset.com" email="info@humanasset.com">
@@ -16,7 +16,7 @@
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>2.0.0</string>
+        <string>1.0.0</string>
     </gap:config-file>
 
     <gap:platform name="ios" />
