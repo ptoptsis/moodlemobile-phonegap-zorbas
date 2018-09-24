@@ -213,7 +213,7 @@
     "mm.core.view": "Προβολή",
     "mm.core.viewprofile": "Επισκόπηση του προφίλ",
     "mm.core.warningofflinedatadeleted": "Τα δεδομένα εκτός σύνδεσης {{component}} '{{name}}' έχουν σβηστεί. {{error}}",
-    "mm.core.whoops": "Oops!",
+    "mm.core.whoops": "Προσοχή!",
     "mm.core.whyisthishappening": "Γιατί συμβαίνει αυτό;",
     "mm.core.windowsphone": "Windows Phone",
     "mm.core.wsfunctionnotavailable": "Η λειτουργία διαδικτύου δεν είναι διαθέσιμη.",
